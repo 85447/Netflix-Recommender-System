@@ -1,5 +1,5 @@
 
-# **Building And Deploying A Netflix Recommender System**
+# **Building A Netflix Recommender System**
 
 Content Based Recommender System recommends movies similar to the movie user likes and analyses the sentiments on the reviews given by the user for that movie.
 
@@ -14,17 +14,7 @@ To run a Flask deployment tests, run the following command
   python main.py
 ```
 
-
-## Running Heroku Tests
-
-To run a Heroku deployment tests, click on the following link:
-
-[Netflix Recommender System App](https://netflixrecommenderapp.herokuapp.com/)
-
-
-## Deployment
-
-### Steps To Deploy The App:
+ # Steps:
 
 Prepare your dataset:
 
@@ -34,5 +24,4 @@ Prepare your dataset:
         4. Model Building and Tuning
         5. Building Flask API
         6. Pushing code to Github
-        7. Connecting to your Heroku account 
-        8. Deploy App
+       
